@@ -20,7 +20,7 @@ The dispatcher shift device has the following characteristics:
 Pulse debouncing or detector. Development control unit for the detection pressing buttons.
 - [x] **Module 2**: 
 7-segment display. Development control unit for generating messages through the array of four seven-segment display.
-- [ ] **Module 3**:
+- [x] **Module 3**:
 Protocol RS232.
 - [ ] **Module 4**:
 Aplicativo of reference TurnoPuesto attention.
